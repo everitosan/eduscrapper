@@ -1,0 +1,24 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "Scrapper to download videos from several websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everitosan/eduscrapper.git"
+  },
+  "keywords": [
+    "edu",
+    "scrapper",
+    "videos"
+  ],
+  "author": "evesan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/everitosan/eduscrapper/issues"
+  },
+  "homepage": "https://github.com/everitosan/eduscrapper#readme"
+}
